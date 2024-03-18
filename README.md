@@ -1,2 +1,2 @@
 # recetas
-repositorio de recetas para practicar git
+repositorio de recetas para practicar git salma
